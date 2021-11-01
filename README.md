@@ -1,2 +1,2 @@
 # movie app
- idmb api
+ imdb api
